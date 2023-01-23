@@ -1,5 +1,13 @@
 .EightBall {
-    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.EightBall-Ball {
+    font-size: 1.25em;
+    font-weight: bold;
     color: white;
     border-radius: 50%;
     height: 300px;
