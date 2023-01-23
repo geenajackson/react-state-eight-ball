@@ -8,7 +8,7 @@ const answers = [
     { msg: "Most likely.", color: "green" },
     { msg: "Outlook good.", color: "green" },
     { msg: "Yes.", color: "green" },
-    { msg: "Signs point to yes.", color: "goldenrod" },
+    { msg: "Signs point to yes.", color: "green" },
     { msg: "Reply hazy, try again.", color: "goldenrod" },
     { msg: "Ask again later.", color: "goldenrod" },
     { msg: "Better not tell you now.", color: "goldenrod" },
